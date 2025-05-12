@@ -4,7 +4,7 @@
 
 Technology in use:
 * ReactJS (v18.3.1)
-* ViteJS (v2.0.1)
+* ViteJS (v5.4.8)
 
 Some web designs:
 ![trip-list](./sample-images/trip-list.png)
