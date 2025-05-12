@@ -19,6 +19,6 @@ Some web designs:
 
 ![order-info](./sample-images/order-info.png)
 
-Connect to me via [My Email](mailto:onedvu315itech@gmail.com)
+Connect to me via [onedvu315itech@gmail.com](mailto:onedvu315itech@gmail.com)
 
 Copyright &copy; 2024 Ha Vu
